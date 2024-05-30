@@ -1844,7 +1844,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://sitraminc.com/wp-content/uploads/2021/07/cropped-Untitled-design-6.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://127.0.0.1/sitraminc/wp-content/uploads/2021/07/cropped-Untitled-design-6.png]]></content:encoded>
+		<content:encoded><![CDATA[../assets/images/uploads/2021/07/cropped-Untitled-design-6.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>211</wp:post_id>
 		<wp:post_date><![CDATA[2021-07-06 19:01:25]]></wp:post_date>

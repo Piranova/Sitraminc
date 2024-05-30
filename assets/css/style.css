@@ -869,7 +869,7 @@ a.sr-shop-now:hover{
 /*add new code for category page*/
 .product_list_banner{
 	
-	background-image:url("images/product-list-banner.jpg");	
+	background-image:url("../images/product-list-banner.jpg");	
 	background-repeat: no-repeat;	
 	height: 100%;	
   background-position: center;	
@@ -2611,4 +2611,8 @@ span.sku_wrapper{
 }
 .shipping-calculator-button {
 	display:none !important;
+}
+.valve-images {
+  height: auto;
+  max-width: 100%;
 }
