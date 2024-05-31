@@ -1,6 +1,6 @@
   
 <?php
 
-include_once("../sitraminc/index.html");
+include_once("index.html");
 
 ?>
